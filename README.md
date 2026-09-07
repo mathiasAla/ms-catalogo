@@ -19,3 +19,8 @@ Es el servicio que recibe más consultas, por lo que necesita escalar de forma i
 
 ## Tecnología
 - Java 17 + Spring Boot (Spring Web)
+- Maven
+- Base de datos: SQL (PostgreSQL) o NoSQL (MongoDB) — según volumen de
+  consultas, útil para búsquedas flexibles por categoría/autor
+- Comunicación: REST API (vía API Gateway)
+- Escalabilidad: múltiples instancias detrás del Service Registry
