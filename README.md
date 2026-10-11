@@ -33,7 +33,7 @@ src/main/java/com/educa/mscatalogo/
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/TU-USUARIO/ms-catalogo.git
+git clone https://github.com/mathiasAla/ms-catalogo.git
 cd ms-catalogo
 ```
 
